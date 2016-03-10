@@ -1,0 +1,2 @@
+# teccode
+freedom work
